@@ -1,0 +1,8 @@
+./custom_vgg19_best_weights.h5
+./custom_vgg19_3c_best_weights.h5
+./custom_vgg16_best_weights.h5
+./custom_vgg16_3c_best_weights.h5
+./custom_resnet50_best_weights.h5
+./custom_mobilenet_best_weights.h5
+./custom_inceptionv3_best_weights.h5
+
